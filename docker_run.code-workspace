@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../git/python-bootcamp"
+		},
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "local",
+		"cSpell.includeRegExpList": [
+			"#.*"
+		],
+		"python.pythonPath": "/opt/conda/envs/EMG_processing/bin/python",
+		"workbench.preferredDarkColorTheme": "One Dark Pro Monokai Darker",
+		"workbench.colorTheme": "One Dark Pro Monokai Darker",
+		"workbench.preferredLightColorTheme": "GitHub Light",
+		"workbench.iconTheme": "material-icon-theme",
+		"oneDarkPro.editorTheme": "oneDarkPro",
+		"oneDarkPro.bold": true,
+	}
+}

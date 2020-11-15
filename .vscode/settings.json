@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    // "docker.host": "ssh://seyed@10.101.192.69",
+    // "python.pythonPath": "opt/conda/envs/EMG_processing/bin/python"
+}
